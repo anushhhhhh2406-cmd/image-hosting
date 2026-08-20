@@ -27,7 +27,7 @@ supabase = create_client(
 )
 
 # Your Supabase Storage bucket
-BUCKET_NAME = "IBM"
+BUCKET_NAME = "Zen"
 
 
 # -----------------------------
